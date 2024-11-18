@@ -1,0 +1,28 @@
+body {
+    font-family: roboto;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    gap: 2px;
+}
+
+#display {
+    background-color: black;
+    color: white;
+    width: 204px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 50px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
